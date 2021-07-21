@@ -1,0 +1,13 @@
+# vim: ft=sshconfig
+
+
+###################################################
+#
+# Default Config
+#
+###################################################
+
+Host *
+    User channoh
+    ServerAliveInterval 120
+    ServerAliveCountMax 60
